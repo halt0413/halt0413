@@ -1,2 +1,3 @@
-https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=halt0413
+
+![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=halt0413)
 
